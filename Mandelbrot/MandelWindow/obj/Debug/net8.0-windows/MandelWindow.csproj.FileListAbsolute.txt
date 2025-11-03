@@ -1,0 +1,15 @@
+C:\Users\naser\source\repos\Mandelbrot\MandelWindow\bin\Debug\net8.0-windows\MandelWindow.exe
+C:\Users\naser\source\repos\Mandelbrot\MandelWindow\bin\Debug\net8.0-windows\MandelWindow.deps.json
+C:\Users\naser\source\repos\Mandelbrot\MandelWindow\bin\Debug\net8.0-windows\MandelWindow.runtimeconfig.json
+C:\Users\naser\source\repos\Mandelbrot\MandelWindow\bin\Debug\net8.0-windows\MandelWindow.dll
+C:\Users\naser\source\repos\Mandelbrot\MandelWindow\bin\Debug\net8.0-windows\MandelWindow.pdb
+C:\Users\naser\source\repos\Mandelbrot\MandelWindow\obj\Debug\net8.0-windows\MandelWindow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naser\source\repos\Mandelbrot\MandelWindow\obj\Debug\net8.0-windows\MandelWindow.AssemblyInfoInputs.cache
+C:\Users\naser\source\repos\Mandelbrot\MandelWindow\obj\Debug\net8.0-windows\MandelWindow.AssemblyInfo.cs
+C:\Users\naser\source\repos\Mandelbrot\MandelWindow\obj\Debug\net8.0-windows\MandelWindow.csproj.CoreCompileInputs.cache
+C:\Users\naser\source\repos\Mandelbrot\MandelWindow\obj\Debug\net8.0-windows\MandelWindow.dll
+C:\Users\naser\source\repos\Mandelbrot\MandelWindow\obj\Debug\net8.0-windows\refint\MandelWindow.dll
+C:\Users\naser\source\repos\Mandelbrot\MandelWindow\obj\Debug\net8.0-windows\MandelWindow.pdb
+C:\Users\naser\source\repos\Mandelbrot\MandelWindow\obj\Debug\net8.0-windows\MandelWindow.genruntimeconfig.cache
+C:\Users\naser\source\repos\Mandelbrot\MandelWindow\obj\Debug\net8.0-windows\ref\MandelWindow.dll
+C:\Users\naser\source\repos\Mandelbrot\MandelWindow\bin\Debug\net8.0-windows\CudaRuntime.dll
